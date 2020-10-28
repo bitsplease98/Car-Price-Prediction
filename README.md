@@ -47,6 +47,8 @@ MAE: 2.60776103654131
 MSE: 10.658857662665373
 RMSE: 3.264790600125125
 ```
+## Screenshots
 
+![img](https://github.com/bitsplease98/Car-Price-Prediction/blob/main/car%20sales.png)
 
 
