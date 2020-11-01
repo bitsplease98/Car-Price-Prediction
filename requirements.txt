@@ -36,7 +36,7 @@ cytoolz==0.10.1
 dask==2.20.0
 decorator==4.4.2
 defusedxml==0.6.0
-diff-match-patch @ file:///tmp/build/80754af9/diff-match-patch_1594828741838/work
+diff-match-patch==20200713
 distributed @ file:///C:/ci/distributed_1594742844291/work
 docutils==0.16
 entrypoints==0.3
